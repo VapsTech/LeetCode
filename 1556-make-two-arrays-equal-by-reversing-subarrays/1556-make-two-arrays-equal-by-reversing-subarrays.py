@@ -3,7 +3,6 @@
 #Runtime: 66ms | Beats 90%
 class Solution:
     def canBeEqual(self, target: List[int], arr: List[int]) -> bool:
-
         #Sort the two lists
         target.sort()
         arr.sort()
