@@ -3,19 +3,21 @@
 #Runtime:
 class Solution:
     def kthDistinct(self, arr: List[str], k: int) -> str:
-        if len(arr) == 1:
+        n = len(arr)
+        n_set = len(set(arr))        
+        if n  == 1:
             return arr[0]
-                                
-        if len(set(arr)) == 1: #Empty(0) or arr of only one element(1)
+
+        if n_set  == 1: #Empty(0) or arr of only one element(1)
             return ""
- 
+
+        if n_set == n:
+            return arr[k-1]
+            
         arr_ans = []
         for char in arr:
             if arr.count(char) == 1: #counter to check frequency 
                 arr_ans.append(char) #Arrange the arr w/ no duplicates
-
-        if arr_ans == []: #check if there are only duplicates  
-            return arr[k-1]
 
         if k <= len(arr_ans): #check if k is inside range
             return arr_ans[k-1]
