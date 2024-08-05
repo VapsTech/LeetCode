@@ -1,6 +1,6 @@
 #VapsTech | 08/05/2024
 #Complexity: O(n)
-#Runtime:
+#Runtime: 26ms | Beats 95%
 class Solution:
     def summaryRanges(self, nums: List[int]) -> List[str]:
         n = len(nums)
