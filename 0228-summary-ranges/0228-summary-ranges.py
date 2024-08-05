@@ -16,5 +16,5 @@ class Solution:
             else:    
                 str_list.append(str(nums[i])) #Means i has not changed
             i += 1
-        
+            
         return str_list
