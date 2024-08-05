@@ -1,5 +1,5 @@
 #VapsTech | 08/05/2024
-#Complexity: 
+#Complexity: O(n)
 #Runtime:
 class Solution:
     def summaryRanges(self, nums: List[int]) -> List[str]:
