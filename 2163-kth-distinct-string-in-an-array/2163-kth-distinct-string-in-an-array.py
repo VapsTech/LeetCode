@@ -5,9 +5,8 @@ class Solution:
     def kthDistinct(self, arr: List[str], k: int) -> str:
         if len(arr) == 1:
             return arr[0]
-
-        #Empty(0) or arr of only one element(1)
-        if len(set(arr)) < 2:
+                                
+        if len(set(arr)) == 1: #Empty(0) or arr of only one element(1)
             return ""
  
         arr_ans = []
