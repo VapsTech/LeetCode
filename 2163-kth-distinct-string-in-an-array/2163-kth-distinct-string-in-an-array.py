@@ -7,7 +7,7 @@ class Solution:
             return arr[k-1]
 
         #Empty(0) or arr of only one element(1)
-        if arr.count(arr[0]) == len(arr) or len(set(arr)) < 2:
+        if len(set(arr)) < 2:
             return ""
  
         arr_ans = []
