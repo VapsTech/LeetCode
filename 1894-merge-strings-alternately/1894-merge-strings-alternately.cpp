@@ -7,7 +7,13 @@ public:
         int n1 = word1.length();
         int n2 = word2.length();
 
-        int size = max(n1, n2); //Get max size
+        //Get max size
+        int size;
+        if (n1 > n2){
+            size = n1;
+        } else {
+            size = n2;
+        }
 
         string ans_arr;
 
