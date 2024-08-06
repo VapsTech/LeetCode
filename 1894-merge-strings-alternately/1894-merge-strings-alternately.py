@@ -1,6 +1,6 @@
 #VapsTech | 08/06/2024
 #Complexity: O(n)
-#Runtime: 30ms | 85%
+#Runtime: 30ms | Beats 85%
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
         length = 0
