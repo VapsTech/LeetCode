@@ -39,13 +39,6 @@ public:
                 closest_neg = neg[i];
             }
         }
-        
-        if (pos.empty()){
-            return closest_neg;
-        }
-        else if (neg.empty()){
-            return closest_pos;
-        }
 
         //Check smallest between smallest positive list and smallest negative list
         if (closest_pos <= abs(closest_neg)){
