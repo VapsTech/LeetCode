@@ -1,6 +1,6 @@
 //VapsTech | 08/06/2024
 //Complexity: O(n)
-//Runtime: 19ms | 50%
+//Runtime: 14ms | 80%
 #include <cmath>
 class Solution {
 public:
@@ -9,9 +9,8 @@ public:
 
         vector<int> pos;
         vector<int> neg;
-        int closest;
  
-        //Create the list with positive nums and list with neg nums
+        //Create list with positive nums and list with negative nums
         for (int i = 0; i < n; ++i){
             if (nums[i] == 0){
                 return 0;
