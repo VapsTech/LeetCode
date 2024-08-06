@@ -25,7 +25,7 @@ public:
         }
 
         //Find smallest in positive list
-        int closest_pos = pow(10,5);
+        int closest_pos = 999999;
         for (int i = 0; i < pos.size(); ++i){
             if (pos[i] < closest_pos){
                 closest_pos = pos[i];
@@ -33,13 +33,13 @@ public:
         }
 
         //Find greatest (closest to zero) in negative list 
-        int closest_neg = pow(-10,5);
+        int closest_neg = -999999;
         for (int i = 0; i < neg.size(); ++i){
             if (neg[i] > closest_neg){
                 closest_neg = neg[i];
             }
         }
-
+        
         if (pos.empty()){
             return closest_neg;
         }
