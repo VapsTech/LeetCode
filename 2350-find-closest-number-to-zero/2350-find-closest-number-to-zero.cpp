@@ -43,7 +43,7 @@ public:
         if (pos.empty()){
             return closest_neg;
         }
-        if (neg.empty()){
+        else if (neg.empty()){
             return closest_pos;
         }
 
