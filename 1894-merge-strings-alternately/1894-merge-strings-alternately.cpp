@@ -1,6 +1,6 @@
 //VapsTech | 08/06/2024
 //Complexity: O(n)
-//Runtime: 
+//Runtime: 0ms | Beats 100%
 class Solution {
 public:
     string mergeAlternately(string word1, string word2) {
