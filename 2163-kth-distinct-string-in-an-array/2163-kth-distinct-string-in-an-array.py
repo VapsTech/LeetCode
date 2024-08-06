@@ -1,4 +1,4 @@
-#VapsTech && Alef| 08/05/2024
+#VapsTech && Alef-Keuffer| 08/05/2024
 #Complexity: O(n)
 #Runtime: 60ms | Beats 90%
 class Solution:
