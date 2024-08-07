@@ -1,6 +1,6 @@
 #VapsTech | 08/07/2024
 #Complexity: O(n)
-#Runtime:
+#Runtime: 33ms | Beats 80%
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
         n = len(nums) #Get total length 
