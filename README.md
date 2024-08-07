@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/VapsTech/LeetCode/tree/master/0027-remove-element) |
 | [0238-product-of-array-except-self](https://github.com/VapsTech/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VapsTech/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/VapsTech/LeetCode/tree/master/2350-find-closest-number-to-zero) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/VapsTech/LeetCode/tree/master/0027-remove-element) |
 | [1894-merge-strings-alternately](https://github.com/VapsTech/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Prefix Sum
 |  |
