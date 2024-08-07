@@ -16,7 +16,6 @@ class Solution:
             pre[i] = mult
         pre[0] = 1 #First index equal to 1
 
-
         #Sufix Array
         mult = 1
         for i in range(n-1):
