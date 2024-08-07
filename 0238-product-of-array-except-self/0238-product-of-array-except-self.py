@@ -1,6 +1,6 @@
 #VapsTech && Alef-Keuffer | 08/07/2024
 #Complexity: O(n)
-#Runtime: 
+#Runtime: 277ms | Beats 30%
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         n = len(nums)
