@@ -1,6 +1,6 @@
 #VapsTech | 08/08/2024
 #Complexity: O(n)
-#Runtime: 
+#Runtime: 34ms | Beats 70%
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
         s_size = len(s)
