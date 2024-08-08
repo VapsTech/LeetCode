@@ -7,7 +7,7 @@ class Solution:
         for i in range(n):
             if nums[i] not in duplicates:
                 nums[idx] = duplicates[idx] = nums[i] #Add single num to duplicate
-                
+                nums[idx] = duplicates[idx] #Change num in nums
                 idx += 1 #Move to next changing idx
 
         return idx
