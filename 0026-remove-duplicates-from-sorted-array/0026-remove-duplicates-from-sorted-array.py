@@ -1,3 +1,6 @@
+#VapsTech | 08/08/2024
+#Complexity: O(n)
+#Runtime:
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         n = len(nums)
@@ -6,9 +9,10 @@ class Solution:
         idx = 0
         for i in range(n):
             if nums[i] not in duplicates:
-                nums[idx] = duplicates[idx] = nums[i] #Add single num to duplicate
-                nums[idx] = duplicates[idx] #Change num in nums
-                idx += 1 #Move to next changing idx
+                #add the different num to duplicate and remove duplication in nums
+                nums[idx] = duplicates[idx] = nums[i] 
+                #Move on to next changing idx
+                idx += 1 
 
-        return idx
+        return idx #number of different numbers
         
