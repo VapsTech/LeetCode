@@ -1,6 +1,6 @@
 #VapsTech | 08/08/2024
 #Complexity: O(n)
-#Runtime:
+#Runtime: 85ms | Beats 20%
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         n = len(nums)
