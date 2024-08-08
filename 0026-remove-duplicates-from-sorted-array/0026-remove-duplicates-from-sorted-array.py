@@ -11,7 +11,7 @@ class Solution:
             if nums[i] not in duplicates:
                 #add the different num to duplicate and remove duplication in nums
                 duplicates.append(nums[i])
-                nums[idx]  = nums[i] 
+                nums[idx] = nums[i] 
                 #Move on to next changing idx
                 idx += 1 
 
