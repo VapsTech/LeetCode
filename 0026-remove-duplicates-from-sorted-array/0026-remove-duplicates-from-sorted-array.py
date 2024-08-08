@@ -4,13 +4,14 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         n = len(nums)
-        duplicates = [-101] * n 
+        duplicates = []
 
         idx = 0
         for i in range(n):
             if nums[i] not in duplicates:
                 #add the different num to duplicate and remove duplication in nums
-                nums[idx] = duplicates[idx] = nums[i] 
+                duplicates.append(nums[i])
+                nums[idx]  = nums[i] 
                 #Move on to next changing idx
                 idx += 1 
 
