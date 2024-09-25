@@ -1,6 +1,6 @@
 #VapsTech | 09/24/2024
-#Runtime:
-#Complexity: 
+#Runtime: 
+#Complexity: O(n)
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         x = str(x) #Turn into a str object
