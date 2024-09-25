@@ -1,5 +1,4 @@
 #VapsTech | 09/24/2024
-#Runtime: 
 #Complexity: O(n)
 class Solution:
     def isPalindrome(self, x: int) -> bool:
