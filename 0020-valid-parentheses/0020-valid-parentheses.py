@@ -8,9 +8,6 @@ class Solution:
 
         valid_closing = []
 
-        if s[0] not in opening:
-            return False
-
         for char in s:
             if char in opening: #Check if it is a opening
                 valid_closing.append(closing[char]) #Append to the Stack
