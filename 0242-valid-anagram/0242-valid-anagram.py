@@ -20,11 +20,5 @@ class Solution:
 
         return s_dic == t_dic
 
-        #for char in s:
-        #    if (char not in t_dic) or (s_dic[char] - t_dic[char] != 0):
-        #        return False
-
-        #return True  
-                
         
         
