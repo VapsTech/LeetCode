@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/VapsTech/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VapsTech/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VapsTech/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VapsTech/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/VapsTech/LeetCode/tree/master/0392-is-subsequence) |
+| [0782-jewels-and-stones](https://github.com/VapsTech/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/VapsTech/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VapsTech/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
