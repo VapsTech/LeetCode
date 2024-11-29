@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/VapsTech/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/VapsTech/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/VapsTech/LeetCode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/VapsTech/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VapsTech/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/VapsTech/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VapsTech/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/VapsTech/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/VapsTech/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/VapsTech/LeetCode/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/VapsTech/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -73,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/VapsTech/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/VapsTech/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/VapsTech/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
