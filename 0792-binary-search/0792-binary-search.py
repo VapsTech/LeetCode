@@ -1,3 +1,5 @@
+#VapsTech | 12/03/2024
+#Complexity: O(log(n))
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
 
