@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VapsTech/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/VapsTech/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/VapsTech/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0792-binary-search](https://github.com/VapsTech/LeetCode/tree/master/0792-binary-search) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VapsTech/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/VapsTech/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/VapsTech/LeetCode/tree/master/0035-search-insert-position) |
+| [0792-binary-search](https://github.com/VapsTech/LeetCode/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
