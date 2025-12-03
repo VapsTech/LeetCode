@@ -2,14 +2,12 @@ class Solution {
 public:
     string addBinary(string a, string b) 
     {
-        //NOTE: We assum a is always the largest sequence of bits
-
         int a_nBits = a.size();
         int b_nBits = b.size();
+
         char largestString;
         int smallestSize = 0;
         int biggestSize = 0;
-
         if (a_nBits >= b_nBits)
         {
             largestString = 'a';
@@ -26,25 +24,25 @@ public:
         string sum = "";
 
         int carry = 0;
-        int i = a_nBits;
-        int j = b_nBits;
+        int i = a_nBits; // a string index
+        int j = b_nBits; // b string index
 
         int t = 0;
         while (t < smallestSize)
         {
             i--;
             j--;
-            if (a[i] == '1' && b[j] == '1')
+            if (a[i] == '1' && b[j] == '1') // 1 + 1
             {
                 sum.push_back(carry ? '1' : '0');
                 carry = 1;
             }
-            else if (a[i] == '0' && b[j] == '0')
+            else if (a[i] == '0' && b[j] == '0') // 0 + 0
             {
                 sum.push_back(carry ? '1' : '0');
-                carry = 0; // unchanged
+                carry = 0; 
             }
-            else // a!=b, one is 1
+            else // a[i] != b[j]
             {
                 if (carry)
                 {
