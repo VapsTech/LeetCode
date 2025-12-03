@@ -21,7 +21,7 @@ public:
             biggestSize = b_nBits;
         }
 
-        string sum = "";
+        string sum = ""; // result
 
         int carry = 0;
         int i = a_nBits; // a string index
