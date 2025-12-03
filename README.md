@@ -29,6 +29,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/VapsTech/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VapsTech/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/VapsTech/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/VapsTech/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VapsTech/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VapsTech/LeetCode/tree/master/0344-reverse-string) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/VapsTech/LeetCode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/VapsTech/LeetCode/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -86,4 +88,12 @@
 | [0056-merge-intervals](https://github.com/VapsTech/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/VapsTech/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VapsTech/LeetCode/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/VapsTech/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/VapsTech/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
